@@ -1,4 +1,4 @@
- <h2> <div align="center"><b><a href="#"><img width="20px"src="https://logospng.org/download/spotify/logo-spotify-icon-4096.png"></a> Premium Spotify for Windows </b></div> </h2>
+ <h2> <div align="center"><b><a href="#"><img width="20px"src="https://logospng.org/download/spotify/logo-spotify-icon-4096.png"></a> Premium Spotify for Windows <a href="#"><img width="20px"src="https://th.bing.com/th/id/R.046fa91f8d199d90b754d3eafd17b24f?rik=p%2b22qfykols3sg&pid=ImgRaw&r=0"></a></b></div> </h2>
  <a href="https://github.com/r3mz0/" target="_blank"><img src="https://cdn.discordapp.com/attachments/417017959802994710/1132385363873251338/Banner.png" /></a>
 
 <h3 align="center"><strong><a href="#requirements">Requirements</a> ║ <a href="#features">Features</a> ║ <a href="#installation--update">Installation</a> ║ <a href="#installation--update">Update</a> ║ <a href="#uninstall">Uninstall</a> ║ <a href="#you-can-support-me-by-donation">Donate</a> ║ <a href="#disclaimer">Disclaimer</a></strong></h3>
@@ -47,4 +47,5 @@ All this files with SpotX is a modified version of the official Spotify client, 
 We wrote some code, we modified some. 
 None of the entered codes are purely my own idea (<i>I found inspiration, and then I made it my way and above all simpler and clearer</i>). <br>
 It's for educational purposes only. Use it at your own risk!<br><br>
-<strong>By using, you agree to the <a href="/LICENSE">License Terms</a>.</strong>
+By using or contributing to this project, you agree to the terms mentioned.<br><br>
+<strong>By using, you agree to the <a href="/LICENSE">License Terms</a> as well.</strong>
