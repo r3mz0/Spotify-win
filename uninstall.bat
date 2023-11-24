@@ -32,5 +32,5 @@ if exist "%temp%\SpotX_Temp*" (
     )
 )
 
-echo Patch successfully removed
+echo Successfully removed.
 pause
